@@ -1,24 +1,27 @@
 {
-  "name": "@sheplu/eslint-config-jsdoc",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sheplu/eslint-config-jsdoc.git"
-  },
-  "engines": {
-	"node": ">=24"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/sheplu/eslint-config-jsdoc/issues"
-  },
-  "homepage": "https://github.com/sheplu/eslint-config-jsdoc#readme"
+	"name": "@sheplu/eslint-config-jsdoc",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sheplu/eslint-config-jsdoc.git"
+	},
+	"engines": {
+		"node": ">=24"
+	},
+	"keywords": [],
+	"author": {
+		"name": "Jean Burellier",
+		"url": "https://github.com/sheplu"
+	},
+	"license": "ISC",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/sheplu/eslint-config-jsdoc/issues"
+	},
+	"homepage": "https://github.com/sheplu/eslint-config-jsdoc#readme"
 }
